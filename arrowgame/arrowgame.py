@@ -91,7 +91,7 @@ game_font = pygame.font.Font(None, 40)  # 폰트 객체 생성
 game_result = "Game Over"
 
 # 총 시간
-total_time = 30
+total_time = 31
 # 시간 계산
 start_ticks = pygame.time.get_ticks()  # 첫 시작 시간 정보를 받아옴
 
